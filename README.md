@@ -6,7 +6,7 @@ Both the CSS and HTML files have been commented to highlight every change that h
 
 Below is a screenshot of the webpage.
 
-![Screenshot](Horiseon screenshot.png)
+![Screenshot](Horiseonscreenshot.png)
 
     
     
