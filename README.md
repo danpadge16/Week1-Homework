@@ -6,8 +6,7 @@ Both the CSS and HTML files have been commented to highlight every change that h
 
 Below is a screenshot of the webpage.
 
-```md
-    ![alt text](assets/images/Horiseon screenshot.png)
-    ```
+![Alt text](/relative/path/to/Horiseon screenshot.png?raw=true "Horiseon Webpage")
+
     
     
